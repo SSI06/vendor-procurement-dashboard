@@ -1,0 +1,26 @@
+VendorID,VendorName,Category,Region,ContactEmail,ContractStartDate,Status
+V001,AgroSeed Suppliers,Seeds,Maharashtra,contact@agroseedsu.com,2023-01-31,Active
+V002,GreenField Inputs,Fertilizers,Punjab,contact@greenfield.com,2023-02-28,Active
+V003,KisanChem Industries,Pesticides,Rajasthan,contact@kisanchemi.com,2023-03-31,Active
+V004,HarvestTech Equipment,Equipment,Karnataka,contact@harvesttec.com,2023-04-30,Active
+V005,RuralPack Solutions,Packaging,Uttar Pradesh,contact@ruralpacks.com,2023-05-31,Active
+V006,BioSeed Corporation,Seeds,Maharashtra,contact@bioseedcor.com,2023-06-30,Active
+V007,NutriSoil Chemicals,Fertilizers,Punjab,contact@nutrisoilc.com,2023-07-31,Active
+V008,FarmGuard Pesticides,Pesticides,Rajasthan,contact@farmguardp.com,2023-08-31,Active
+V009,AgriMach Pvt Ltd,Equipment,Karnataka,contact@agrimachpv.com,2023-09-30,Active
+V010,EcoPack Enterprises,Packaging,Uttar Pradesh,contact@ecopackent.com,2023-10-31,Active
+V011,SeedMart India,Seeds,Maharashtra,contact@seedmartin.com,2023-11-30,Active
+V012,CropCare Chemicals,Fertilizers,Punjab,contact@cropcarech.com,2023-12-31,Active
+V013,FieldPro Tools,Pesticides,Rajasthan,contact@fieldproto.com,2024-01-31,Active
+V014,SafePack Ltd,Equipment,Karnataka,contact@safepacklt.com,2024-02-29,Active
+V015,OrganicSeed Hub,Packaging,Uttar Pradesh,contact@organicsee.com,2024-03-31,Active
+V016,SuperPhos Fertilizers,Seeds,Maharashtra,contact@superphosf.com,2024-04-30,Active
+V017,DrainFarm Equipment,Fertilizers,Punjab,contact@drainfarme.com,2024-05-31,Active
+V018,GrowRight Inputs,Pesticides,Rajasthan,contact@growrighti.com,2024-06-30,Active
+V019,AgroShield Pest,Equipment,Karnataka,contact@agroshield.com,2024-07-31,Active
+V020,ClearPack Co,Packaging,Uttar Pradesh,contact@clearpackc.com,2024-08-31,Active
+V021,Desi Seeds Pvt,Seeds,Maharashtra,contact@desiseedsp.com,2024-09-30,Active
+V022,FertilMax India,Fertilizers,Punjab,contact@fertilmaxi.com,2024-10-31,Active
+V023,PureSpray Agro,Pesticides,Rajasthan,contact@purespraya.com,2024-11-30,Inactive
+V024,TechFarm Machinery,Equipment,Karnataka,contact@techfarmma.com,2024-12-31,Active
+V025,BoxIt Solutions,Packaging,Uttar Pradesh,contact@boxitsolut.com,2025-01-31,On Hold
