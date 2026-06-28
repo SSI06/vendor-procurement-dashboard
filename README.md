@@ -133,6 +133,5 @@ vendor-procurement-dashboard/
 ## Author
 
 **Sakshi Idulganti**  
-Junior Consultant & Data Analyst | S4S Technologies  
 [LinkedIn](https://linkedin.com/in/sakshiidulganti) • [GitHub](https://github.com/SSI06)  
 idulgantisakshisantosh@gmail.com
