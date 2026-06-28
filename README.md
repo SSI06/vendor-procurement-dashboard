@@ -7,7 +7,7 @@
 
 ## The Problem This Solves
 
-In agri-tech companies like S4S Technologies, procurement teams manage dozens of vendors across seeds, fertilizers, equipment, and packaging. Without a centralised view:
+In agri-tech companies, procurement teams manage dozens of vendors across seeds, fertilizers, equipment, and packaging. Without a centralised view:
 
 - No one knows which vendors are chronically late
 - Spend overruns go undetected until month-end
